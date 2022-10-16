@@ -7,3 +7,5 @@ paass
 account
 mail
 support
+index
+index.php
